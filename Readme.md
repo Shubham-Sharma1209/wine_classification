@@ -61,4 +61,4 @@ Acids are one of the fundamental properties of wine and contribute greatly to th
      * 12.d  Confusion Matrix
 
 Link to Wine Dataset used for classififcation:
-[Classification on wine Data Set](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+[Classification on wine Data Set](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
